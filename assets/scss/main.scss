@@ -7,7 +7,7 @@
 
 :root {
   --text-sm: 1.25rem;
-  --text-md: clamp(1.5rem, 1.25vw, 1.75rem);
+  --text-md: clamp(1.25rem, 1.25vw, 1.75rem);
   --text-lg: clamp(1.5rem, 1.75vw, 2rem);
   --text-xl: clamp(2rem, 2.25vw, 3.25rem);
   --text-2xl: clamp(3.5rem, 4vw, 5rem);
@@ -56,10 +56,6 @@ main {
   }
 }
 
-main .container {
-  padding: 0;
-}
-
 .quote {
   border: 2px var(--gray-300) solid;
   border-radius: .75rem;
@@ -95,6 +91,10 @@ main .container {
   .text-intro {
     max-width: 600px;
     margin-left: auto;
+  }
+
+  .text {
+    font-size: var(--text-md);
   }
 }
 

@@ -1,0 +1,632 @@
+[
+  {
+      "date": "03/08/23",
+      "restaurant": "Taberna Marisa",
+      "amount": "98.00 €",
+      "guests": "2",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 110 A 112.pdf"
+  },
+  {
+      "date": "26/07/23",
+      "restaurant": "Pirineos",
+      "amount": "495.00 €",
+      "guests": "10",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 110 A 112.pdf"
+  },
+  {
+      "date": "04/10/23",
+      "restaurant": "Bar Ricardo",
+      "amount": "90.25 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "05/10/23",
+      "restaurant": "La Raspa",
+      "amount": "94.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "16/10/23",
+      "restaurant": "Taberna Marisa",
+      "amount": "69.60 €",
+      "guests": "2",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "19/10/23",
+      "restaurant": "Pepita Pulgarcita",
+      "amount": "261.70 €",
+      "guests": "14",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "25/10/23",
+      "restaurant": "Pirineos",
+      "amount": "204.00 €",
+      "guests": "6",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "30/10/23",
+      "restaurant": "Kramer",
+      "amount": "66.70 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 161 A 166.pdf"
+  },
+  {
+      "date": "13/12/23",
+      "restaurant": "Taberna de la Daniela",
+      "amount": "203.00 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "18/12/23",
+      "restaurant": "Kramer",
+      "amount": "67.60 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "20/12/23",
+      "restaurant": "El encuentro",
+      "amount": "220.00 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "05/02/24",
+      "restaurant": "Kramer",
+      "amount": "61.65 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "07/02/24",
+      "restaurant": "Pirineos",
+      "amount": "220.00 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "13/02/24",
+      "restaurant": "La Raspa",
+      "amount": "115.76 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "24/9/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "93.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "30/09/2024",
+      "restaurant": "Kramer",
+      "amount": "83.53 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "2/10/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "141.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "7/10/2024",
+      "restaurant": "Pirineos",
+      "amount": "152.80 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "16/10/2024",
+      "restaurant": "Pirineos",
+      "amount": "239.50 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "21/10/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "135.20 €",
+      "guests": "4",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "23/10/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "80.00 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "13/11/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "63.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "18/11/2024",
+      "restaurant": "Cervecería Erajoma",
+      "amount": "134.00 €",
+      "guests": "4",
+      "type": "Marisqueria",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "20/11/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "168.00 €",
+      "guests": "4",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "20/11/2024",
+      "restaurant": "El Patio",
+      "amount": "45.20 €",
+      "guests": "2",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "25/11/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "99.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "27/11/2024",
+      "restaurant": "Pirineos",
+      "amount": "240.00 €",
+      "guests": "6",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "2/12/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "54.00 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "3/12/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "152.00 €",
+      "guests": "4",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "16/12/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "99.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "17/12/2024",
+      "restaurant": "Pirineos",
+      "amount": "144.00 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "17/08/23",
+      "restaurant": "Kramer",
+      "amount": "87.40 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 113 A 114.pdf"
+  },
+  {
+      "date": "23/08/23",
+      "restaurant": "Kramer",
+      "amount": "91.55 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 113 A 114.pdf"
+  },
+  {
+      "date": "07/08/23",
+      "restaurant": "San Tommaso",
+      "amount": "96.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 129 A 130.pdf"
+  },
+  {
+      "date": "07/09/23",
+      "restaurant": "Pirineos",
+      "amount": "148.50 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 129 A 130.pdf"
+  },
+  {
+      "date": "17/06/24",
+      "restaurant": "Taberna del Gourmet",
+      "amount": "157.35 €",
+      "guests": "4",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "18/06/24",
+      "restaurant": "Sidrería El Molinón",
+      "amount": "65.70 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "27/06/24",
+      "restaurant": "Pirineos",
+      "amount": "176.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "02/07/24",
+      "restaurant": "Pirineos",
+      "amount": "200.00 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "3/7/2024",
+      "restaurant": "Zacarías",
+      "amount": "177.36 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "7/7/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "76.00 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "10/7/2024",
+      "restaurant": "Pirineos",
+      "amount": "200.00 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "14/7/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "108.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "17/7/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "99.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jun - jul RESTAURANTS ROVIRA 20112024.pdf"
+  },
+  {
+      "date": "08/08/23",
+      "restaurant": "Kramer",
+      "amount": "113.05 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 110 A 112.pdf"
+  },
+  {
+      "date": "28/09/23",
+      "restaurant": "Pirineos",
+      "amount": "273.00 €",
+      "guests": "7",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 159 A 160.pdf"
+  },
+  {
+      "date": "02/10/23",
+      "restaurant": "Taberna Marisa",
+      "amount": "105.00 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 159 A 160.pdf"
+  },
+  {
+      "date": "12/12/23",
+      "restaurant": "Pirineos",
+      "amount": "166.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "15/12/23",
+      "restaurant": "El Bocaíto",
+      "amount": "125.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "19/12/23",
+      "restaurant": "Pirineos",
+      "amount": "135.00 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "09/01/24",
+      "restaurant": "Pirineos",
+      "amount": "180.00 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "15/01/24",
+      "restaurant": "La salumeria italiana",
+      "amount": "119.93 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "17/01/24",
+      "restaurant": "El Gastrónomo",
+      "amount": "166.35 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "29/01/24",
+      "restaurant": "Kramer",
+      "amount": "105.90 €",
+      "guests": "6",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 2.pdf"
+  },
+  {
+      "date": "08/01/24",
+      "restaurant": "Santa Rita",
+      "amount": "107.60 €",
+      "guests": "2",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 3.pdf"
+  },
+  {
+      "date": "01/02/24",
+      "restaurant": "Arre",
+      "amount": "187.80 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "CF0014. Metàl·lic 3.pdf"
+  },
+  {
+      "date": "14/09/23",
+      "restaurant": "Pirineos",
+      "amount": "217.50 €",
+      "guests": "6",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 134 A 136.pdf"
+  },
+  {
+      "date": "19/09/23",
+      "restaurant": "Pirineos",
+      "amount": "297.50 €",
+      "guests": "7",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 134 A 136.pdf"
+  },
+  {
+      "date": "21/09/23",
+      "restaurant": "Colevisa",
+      "amount": "20.10 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "FACTURES 134 A 136.pdf"
+  },
+  {
+      "date": "4/9/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "84.00 €",
+      "guests": "3",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "10/9/2024",
+      "restaurant": "Pirineos",
+      "amount": "718.00 €",
+      "guests": "20",
+      "type": "",
+      "on_agenda": false,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "12/9/2024",
+      "restaurant": "El verde",
+      "amount": "52.10 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "17/9/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "190.00 €",
+      "guests": "5",
+      "type": "Sopar (1:30 del matí)",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "17/9/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "65.00 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "29/7/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "120.00 €",
+      "guests": "4",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "26/08/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "111.00 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "28/08/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "119.00 €",
+      "guests": "3",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "9/9/2024",
+      "restaurant": "Taberna Marisa",
+      "amount": "56.00 €",
+      "guests": "2",
+      "type": "Sopar",
+      "on_agenda": true,
+      "invoice": "2024 jul - set RESTAURANTS ROVIRA 11122024.pdf"
+  },
+  {
+      "date": "21/10/2024",
+      "restaurant": "Kramer",
+      "amount": "95.95 €",
+      "guests": "5",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  },
+  {
+      "date": "23/10/2024",
+      "restaurant": "Pirineos",
+      "amount": "173.20 €",
+      "guests": "4",
+      "type": "",
+      "on_agenda": true,
+      "invoice": "2024 set-nov.pdf"
+  }
+]

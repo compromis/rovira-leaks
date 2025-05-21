@@ -10,16 +10,14 @@ useSeoMeta({
   ogTitle: 'RoviraLeaks - Compromís',
   description: '',
   ogDescription: '',
-  ogImage: 'https://roviraleaks.com/images/ogimage.png',
+  ogImage: 'https://roviraleaks.compromis.net/images/ogimage.png',
   twitterCard: 'summary_large_image',
 })
 </script>
 
 <template>
   <main>
-    <SiteHeader>
-      <SiteTitle />
-    </SiteHeader>
+    <SiteHeader />
     <div class="container">
       <section class="text text-intro">
         <h1 v-motion-fade-visible class="visually-hidden">

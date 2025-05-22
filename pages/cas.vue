@@ -8,8 +8,8 @@ useHead({
 useSeoMeta({
   title: 'RoviraLeaks - Compromís',
   ogTitle: 'RoviraLeaks - Compromís',
-  description: '',
-  ogDescription: '',
+  description: 'Destapem que el pitjor Conseller d’Educació de la història, José Antonio Rovira, ja s’ha gastat més de 10.000€ dels nostres impostos en dinars i sopars',
+  ogDescription: 'Destapem que el el pitjor Conseller d’Educació de la història, José Antonio Rovira, ja s’ha gastat més de 10.000€ dels nostres impostos en dinars i sopars',
   ogImage: 'https://roviraleaks.compromis.net/images/ogimage.png',
   twitterCard: 'summary_large_image',
 })

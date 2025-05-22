@@ -11,16 +11,16 @@
           </div>
         </div>
         <div class="share-links">
-          <a href="whatsapp://send?text=https://noestemmalaltes.com" class="link whatsapp">
+          <a href="whatsapp://send?text=https://roviraleaks.compromis.net" class="link whatsapp">
             <span>-&gt;</span> WhatsApp
           </a>
-          <a href="https://t.me/share/url?url=https://noestemmalaltes.com&text=" class="link telegram">
+          <a href="https://t.me/share/url?url=https://roviraleaks.compromis.net&text=" class="link telegram">
             <span>-&gt;</span> Telegram
           </a>
-          <a href="https://www.facebook.com/sharer/sharer.php?u=https://noestemmalaltes.com" class="link facebook">
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https://roviraleaks.compromis.net" class="link facebook">
             <span>-&gt;</span> Facebook
           </a>
-          <a href="https://twitter.com/intent/tweet/?text=&url=https://noestemmalaltes.com&hashtags=NoEstemMalaltes" class="link twitter">
+          <a href="https://twitter.com/intent/tweet/?text=&url=https://roviraleaks.compromis.net&hashtags=RoviraLeaks" class="link twitter">
             <span>-&gt;</span> X / Twitter
           </a>
         </div>

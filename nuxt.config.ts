@@ -24,7 +24,10 @@ export default defineNuxtConfig({
           rel: 'stylesheet',
           href: 'https://compromis.net/sub/fonts/manrope.css?variable',
         },
-      ]
+      ],
+      script: [
+        { src: 'https://cloud.umami.is/script.js', 'data-website-id': '0016290d-fd9c-48f6-be8d-c69accc0354b', defer: true }
+      ]    
     }
   },
 
@@ -52,9 +55,5 @@ export default defineNuxtConfig({
         }
       }
     }
-  },
-
-  cloudflareAnalytics: {
-    token: '640825047f3f4693a20c8a7a3ddb8aa2'
   }
 })

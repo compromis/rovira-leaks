@@ -38,7 +38,6 @@ export default defineNuxtConfig({
   modules: [
     '@vueuse/motion/nuxt',
     '@vueuse/nuxt',
-    'nuxt-cloudflare-analytics',
     '@nuxt/icon',
   ],
 

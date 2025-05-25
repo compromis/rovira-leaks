@@ -13,7 +13,6 @@ import invoices from '../data/invoices.json'
             <th class="text-right">Despesa</th>
             <th class="text-right">👥</th>
             <th width="200">Tipus</th>
-            <th>Agendat</th>
             <th>Factura</th>
           </tr>
         </thead>
@@ -21,14 +20,13 @@ import invoices from '../data/invoices.json'
           <tr v-for="invoice in invoices" :key="invoice.id">
             <td>{{ invoice.date }}</td>
             <td>{{ invoice.restaurant }}</td>
-            <td class="text-right">{{ invoice.amount }}</td>
-            <td class="text-right">{{ invoice.guests }}</td>
+            <td class="text-right">{{ invoice.amount.replaceAll('.', ',') }}</td>
+            <td class="text-right">{{ invoice.serves }}</td>
             <td>
               <span v-if="invoice.type.startsWith('Sopar')" class="pill sopar">☾ {{ invoice.type }}</span>
               <span v-else-if="invoice.type === 'Marisqueria'" class="pill marisqueria">🦞 {{ invoice.type }}</span>
             </td>
-            <td><span v-if="!invoice.on_agenda" class="pill no">No</span></td>
-            <td><a :href="`/invoices/${invoice.invoice}`" class="pill download">PDF</a></td>
+            <td><a :href="`/invoices/${invoice.file}`" class="pill download">PDF</a></td>
           </tr>
         </tbody>
         <tfoot>

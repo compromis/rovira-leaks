@@ -32,7 +32,7 @@ import invoices from '../data/invoices.json'
         <tfoot>
           <tr>
             <th colspan="2">Total</th>
-            <th class="text-right">⚠️ <Annotated type="highlight">10.177,33 €</Annotated></th>
+            <th class="text-right">⚠️ <Annotated type="highlight">11.968,56 €</Annotated></th>
             <th colspan="4"></th>
           </tr>
         </tfoot>

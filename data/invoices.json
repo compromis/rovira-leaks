@@ -628,5 +628,131 @@
         "type": "",
         "on_agenda": "No",
         "file": "26-07-23-FACTURA-Pirineos.pdf"
+    },
+    {
+        "date": "20/01/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "75.00 €",
+        "serves": "3",
+        "type": "Sopar diumenge",
+        "on_agenda": "",
+        "file": "20-01-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "26/01/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "105.00 €",
+        "serves": "3",
+        "type": "Sopar diumenge",
+        "on_agenda": "",
+        "file": "26-01-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "16/02/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "102.00 €",
+        "serves": "3",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "16-02-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "18/02/2025",
+        "restaurant": "La Salvaora",
+        "amount": "96.00 €",
+        "serves": "2",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "18-02-25-FACTURA-LaSalvaora.pdf"
+    },
+    {
+        "date": "25/02/2025",
+        "restaurant": "Os Galegos",
+        "amount": "259.38 €",
+        "serves": "6",
+        "type": "Marisqueria ",
+        "on_agenda": "",
+        "file": "25-02-25-FACTURA-OsGalegos.pdf"
+    },
+    {
+        "date": "11/03/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "164.00 €",
+        "serves": "4",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "11-03-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "24/02/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "78.00 €",
+        "serves": "2",
+        "type": "Sopar ",
+        "on_agenda": "",
+        "file": "24-02-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "03/03/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "130.00 €",
+        "serves": "4",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "03-03-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "16/03/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "139.70 €",
+        "serves": "4",
+        "type": "Sopar diumenge",
+        "on_agenda": "",
+        "file": "16-03-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
+        "date": "24/03/2025",
+        "restaurant": "Kramer",
+        "amount": "79.75 €",
+        "serves": "5",
+        "type": "",
+        "on_agenda": "",
+        "file": "24-03-25-FACTURA-Kramer.pdf"
+    },
+    {
+        "date": "11/03/2025",
+        "restaurant": "Pirineos",
+        "amount": "167.20 €",
+        "serves": "4",
+        "type": "",
+        "on_agenda": "",
+        "file": "11-03-25-FACTURA-Prineos.pdf"
+    },
+    {
+        "date": "27/03/2025",
+        "restaurant": "La Salvaora",
+        "amount": "121.20 €",
+        "serves": "3",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "27-03-25-FACTURA-LaSalvaora.pdf"
+    },
+    {
+        "date": "08/01/2025",
+        "restaurant": "La Salvaora",
+        "amount": "114.00 €",
+        "serves": "3",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "08-01-25-FACTURA-LaSalvaora.pdf"
+    },
+    {
+        "date": "15/01/2025",
+        "restaurant": "La Salvaora",
+        "amount": "160.00 €",
+        "serves": "4",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "15-01-25-FACTURA-LaSalvaora.pdf"
     }
 ]

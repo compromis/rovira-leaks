@@ -126,15 +126,6 @@
         "file": "08-01-25-FACTURA-LaSalvaora.pdf"
     },
     {
-        "date": "29/12/2024",
-        "restaurant": "Taberna Marisa",
-        "amount": "120.00 €",
-        "serves": "4",
-        "type": "Sopar",
-        "on_agenda": "",
-        "file": "29-12-24-FACTURA-TabernaMarisa.pdf"
-    },
-    {
         "date": "17/12/2024",
         "restaurant": "Pirineos",
         "amount": "144.00 €",
@@ -295,6 +286,15 @@
         "type": "",
         "on_agenda": "",
         "file": "30-09-24-FACTURA-Kramer.pdf"
+    },
+    {
+        "date": "29/07/2024",
+        "restaurant": "Taberna Marisa",
+        "amount": "120.00 €",
+        "serves": "4",
+        "type": "Sopar",
+        "on_agenda": "",
+        "file": "29-07-24-FACTURA-TabernaMarisa.pdf"
     },
     {
         "date": "24/09/2024",

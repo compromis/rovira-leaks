@@ -463,7 +463,7 @@
         "restaurant": "La Raspa",
         "amount": "115.76 €",
         "serves": "4",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "",
         "file": "13-02-24-FACTURA-LaRaspa.pdf"
     },
@@ -517,7 +517,7 @@
         "restaurant": "La salumeria italiana",
         "amount": "119.93 €",
         "serves": "5",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "",
         "file": "15-01-24-FACTURA-Salumeria.pdf"
     },
@@ -616,7 +616,7 @@
         "restaurant": "Pepita Pulgarcita",
         "amount": "261.70 €",
         "serves": "14",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "No",
         "file": "19-10-23-FACTURA-PepitaPulgarcita.pdf"
     },
@@ -625,7 +625,7 @@
         "restaurant": "Taberna Marisa",
         "amount": "69.60 €",
         "serves": "2",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "No",
         "file": "16-10-23-FACTURA-TabernaMarisa.pdf"
     },
@@ -643,7 +643,7 @@
         "restaurant": "Bar Ricardo",
         "amount": "90.25 €",
         "serves": "4",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "No",
         "file": "04-10-23-FACTURA-BarRicardo.pdf"
     },
@@ -652,7 +652,7 @@
         "restaurant": "Taberna Marisa",
         "amount": "105.00 €",
         "serves": "3",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "No",
         "file": "02-10-23-FACTURA-TabernaMarisa.pdf"
     },

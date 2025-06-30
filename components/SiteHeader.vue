@@ -1,8 +1,13 @@
 <template>
   <header class="header">
-    <SiteTitle class="d-none d-md-block" />
-    <SiteTitleMobile class="d-md-none" />
-    <div class="overlay bg-gradient" />
+    <div class="header-grid">
+      <SiteTitle class="d-none d-md-block header-title" />
+      <SiteTitleMobile class="d-md-none header-title" />
+      <div class="comegamba">
+        <img src="../assets/images/comegamba.png" alt="Rovira amb un pitet amb una llagosta" />
+      </div>
+    </div>
+    <div class="overlay" />
   </header>
 </template>
 
@@ -15,8 +20,9 @@
     border-bottom-right-radius: 2rem;
     border-bottom-left-radius: 2rem;
     padding: calc(1rem + 2vh);
-    padding-top: calc(9rem + 2vh);
-    background: var(--orange) url(../assets/images/background.jpg);
+    padding-top: calc(5rem + 2vh);
+    padding-bottom: 0;
+    background: #0056a4 url(../assets/images/background.jpg);
     background-size: auto 100%;
     animation: HeaderOrange 180s linear infinite;
     overflow: clip;
@@ -24,14 +30,37 @@
     &:deep(svg) {
       width: 100%;
       max-width: 1450px;
-      position: relative;
-      z-index: 10;
     }
 
     .overlay {
       position: absolute;
       inset: 0;
       mix-blend-mode: multiply;
+      background-color: #0056a4;
+    }
+
+    &-grid {
+      position: relative;
+      z-index: 10;
+      display: grid;
+      grid-template-columns: 3fr 1fr 1fr;
+      align-items: center;
+      width: 100%;
+      max-width: 1500px;
+    }
+
+    &-title {
+      grid-area: 1 / 1 / 2 / 4;
+    }
+
+    .comegamba {
+      grid-area: 1 / 3 / 2 / 4;
+      height: calc(35vh + 4rem);
+      display: flex;
+
+      img {
+        height: 100%;
+      }
     }
   }
 
@@ -46,6 +75,12 @@
       border-bottom-right-radius: 1rem;
       border-bottom-left-radius: 1rem;
       padding-inline: 1rem;
+      padding-block-start: 10rem;
+      padding-block-end: 5rem;
+
+      .comegamba {
+        display: none;
+      }
     }
   }
 </style>

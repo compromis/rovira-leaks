@@ -742,7 +742,7 @@
         "restaurant": "Taberna Marisa",
         "amount": "98.00 €",
         "serves": "2",
-        "type": "",
+        "type": "Sopar",
         "on_agenda": "No",
         "file": "03-08-23-FACTURA-TabernaMarisa.pdf"
     },

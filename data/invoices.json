@@ -18,6 +18,15 @@
         "file": "24-03-25-FACTURA-Kramer.pdf"
     },
     {
+        "date": "24/03/2025",
+        "restaurant": "Taberna Marisa",
+        "amount": "78.00 €",
+        "serves": "2",
+        "type": "Sopar ",
+        "on_agenda": "",
+        "file": "24-03-25-FACTURA-TabernaMarisa.pdf"
+    },
+    {
         "date": "16/03/2025",
         "restaurant": "Taberna Marisa",
         "amount": "139.70 €",
@@ -61,15 +70,6 @@
         "type": "Marisqueria",
         "on_agenda": "",
         "file": "25-02-25-FACTURA-OsGalegos.pdf"
-    },
-    {
-        "date": "24/02/2025",
-        "restaurant": "Taberna Marisa",
-        "amount": "78.00 €",
-        "serves": "2",
-        "type": "Sopar ",
-        "on_agenda": "",
-        "file": "24-02-25-FACTURA-TabernaMarisa.pdf"
     },
     {
         "date": "18/02/2025",
